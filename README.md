@@ -1,5 +1,5 @@
 # Live Link
-https://demzilla.github.io/belly-button-challenge/
+https://demzilla.github.io/leaflet-challenge/
 # Background:
 In this challenge I used javascript and HTML to showcase Eathquakes with magnitude 2.5 or > occuring in the past 7 days.
   - The logic.js file contains the javascript code written for this activity.
